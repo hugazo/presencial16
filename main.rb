@@ -9,6 +9,8 @@ end
 
 # Menus
 def menu(file)
+  # Vertebra del programa, muestra los dialogos de inicio y ejecuta los Metodos
+  # que ejecutara el programa en su ciclo de vida.
   clear
   puts dialogo_bienvenida
   opcion = 0
