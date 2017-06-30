@@ -2,10 +2,6 @@
 
 Prueba 2 de Desafio Latam, programa de calculo de notas.
 
-## Sitio web
-
-* [Hacer clic aca](https://hugazo.github.io)
-
 ## Iniciar
 
 Clonar el repositorio en una carpeta y luego ejecutar el archivo main.rb
